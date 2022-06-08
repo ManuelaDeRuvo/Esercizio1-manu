@@ -14,7 +14,7 @@ public class Esercizio1 {
 				if (i== nums.length-1)
 					shifted[0] = nums[i];
 				else
-					
+				return;	
 				
 			}
 			system.out.println(int[]nums);
